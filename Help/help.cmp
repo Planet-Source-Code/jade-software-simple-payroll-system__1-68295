@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<XMLConfig><info>Chm Maker project</info>
+<group name="Contents">
+ <group name="0">
+  <param name="Caption">About Payroll System</param>
+  <param name="Level">0</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\About Payroll System.htm</param>
+ </group>
+ <group name="1">
+  <param name="Caption">Working with Menus</param>
+  <param name="Level">0</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\Backup.htm</param>
+ </group>
+ <group name="2">
+  <param name="Caption">File Menu</param>
+  <param name="Level">1</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\department.htm</param>
+ </group>
+ <group name="3">
+  <param name="Caption">Employee Information</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\employee.htm</param>
+ </group>
+ <group name="4">
+  <param name="Caption">Position</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\position.htm</param>
+ </group>
+ <group name="5">
+  <param name="Caption">Department</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\department.htm</param>
+ </group>
+ <group name="6">
+  <param name="Caption">Lock Application</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\lock.htm</param>
+ </group>
+ <group name="7">
+  <param name="Caption">Transaction Menu</param>
+  <param name="Level">1</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\Rank.htm</param>
+ </group>
+ <group name="8">
+  <param name="Caption">Rank</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\Rank.htm</param>
+ </group>
+ <group name="9">
+  <param name="Caption">Utility Menu</param>
+  <param name="Level">1</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\newuser.htm</param>
+ </group>
+ <group name="10">
+  <param name="Caption">Backup-Restore</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\Backup.htm</param>
+ </group>
+ <group name="11">
+  <param name="Caption">Change Password</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\change.htm</param>
+ </group>
+ <group name="12">
+  <param name="Caption">New User</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\newuser.htm</param>
+ </group>
+ <group name="13">
+  <param name="Caption">Report Menu</param>
+  <param name="Level">1</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\payslip.htm</param>
+ </group>
+ <group name="14">
+  <param name="Caption">Payroll Report</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\payrollreport.htm</param>
+ </group>
+ <group name="15">
+  <param name="Caption">PaySlip</param>
+  <param name="Level">2</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\payslip.htm</param>
+ </group>
+ <group name="16">
+  <param name="Caption">The Author</param>
+  <param name="Level">0</param>
+  <param name="FileName">C:\WINDOWS\Desktop\Updated Revise - JAZZY\Revise - JAZZY\Help\author.htm</param>
+ </group>
+ <param name="Count">17</param>
+</group>
+<group name="Keywords">
+ <param name="Count">0</param>
+</group>
+<group name="KeywordsFinder">
+ <param name="UseMeta">1</param>
+ <param name="UseBold">1</param>
+ <param name="UseItalic">0</param>
+ <param name="UseUnder">0</param>
+ <param name="UseHTag">1</param>
+ <param name="UseTabHeader">0</param>
+ <param name="MaxKeyLength">32</param>
+ <param name="LiveUpdate">0</param>
+</group>
+<group name="Customize">
+ <param name="MainTitle"></param>
+ <param name="DefaultPage"></param>
+ <param name="Left">0</param>
+ <param name="Top">0</param>
+ <param name="Width">0</param>
+ <param name="Heigth">0</param>
+ <param name="HideShow">1</param>
+ <param name="Back">1</param>
+ <param name="Forward">1</param>
+ <param name="Stop">0</param>
+ <param name="Refresh">0</param>
+ <param name="Options">1</param>
+ <param name="Print">1</param>
+ <param name="Font">0</param>
+ <param name="Locate">0</param>
+ <param name="Home">0</param>
+ <param name="HomePage"></param>
+ <param name="Jump1">0</param>
+ <param name="Jump1Page"></param>
+ <param name="Jump1Title"></param>
+ <param name="Jump2">0</param>
+ <param name="Jump2Page"></param>
+ <param name="Jump2Title"></param>
+ <param name="Search">1</param>
+ <param name="AdditionalFiles"></param>
+</group>
+</XMLConfig>
